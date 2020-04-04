@@ -49,6 +49,7 @@ export default {
     }
   },
 
+  
   // 默认进来做什么，执行fetch
   created() {
     this.fetch();
